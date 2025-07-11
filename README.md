@@ -1,7 +1,7 @@
 # Orchestrion-for-ZGV
 Orchestrion for ZGV is a 3d library inspired by PianoShooter, written in ZGameEditor Visualizer based used in FL Studio.
 
-At the moment there's only one instrument playable
+At the moment there's only two instrument playable
 while I'm working on more for the rest of the orchestra.
 
 [Example of the trumpet](https://www.youtube.com/watch?v=VA8eih0UYQQ "Example of the trumpet")
