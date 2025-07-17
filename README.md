@@ -5,6 +5,7 @@ At the moment there's Brass instrument playable
 while I'm working on more for the rest of the orchestra.
 
 [Example of the trumpet](https://www.youtube.com/watch?v=VA8eih0UYQQ "Example of the trumpet")
+[Example of a brass section](https://youtu.be/v6_ZmM9F4ns "Example a brass section")
 
 To install it you'll have to do it manually.
 
